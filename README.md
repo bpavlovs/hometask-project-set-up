@@ -22,6 +22,7 @@ Make sure that the project contains the following files and folders:
 - **"js"** folder, containing **"rectangle.js"** file
 - **"tests"** folder, containig **"rectangle.test.js"** file
 - **".gitignore"** file
+- **"yarn.lock"** file
 - **"README.md"** file, which you are curently reading
 
 #### Step 3: Check "devDependencies" in "package.json" file
