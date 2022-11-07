@@ -47,11 +47,12 @@ If everything went smoothly, you should see the following output *(execution tim
  PASS  tests/rectangle.test.js
   √ Should calculate perimeter correctly (3 ms)
   √ Should calculate area correctly
-  √ Should retrive info correctly
+  √ Should pass correct data to console.log (31 ms)
 
 Test Suites: 1 passed, 1 total
 Tests:       3 passed, 3 total
 Snapshots:   0 total
-Time:        1.718 s, estimated 2 s
+Time:        1.766 s, estimated 2 s
 Ran all test suites.
+Done in 3.73s.
 ```
