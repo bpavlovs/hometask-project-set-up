@@ -10,7 +10,7 @@ test('Should calculate area correctly', () => {
     expect(area).toBe(200);
 });
 
-test('smh', () => {
+test('Should pass correct data to console.log', () => {
     const logSpy = jest.spyOn(console, 'log');
     getRectangleInfo(10, 20);
     expect(logSpy).toHaveBeenCalledWith('The perimeter of a rectangle is 60 and the area is 200');
