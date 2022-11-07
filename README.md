@@ -37,7 +37,7 @@ Make sure the dev dependencies look as follows:
     "jest": "^29.2.2"
   }
 ```
-### Step 4: Time to run tests
+#### Step 4: Time to run tests
 
 Finally, use the **"yarn jest"** command to run tests that are already present in the **"tests"** folder
 
